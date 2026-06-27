@@ -1,6 +1,6 @@
 ---
 # Display name
-title: John P. Morrissey
+title: Felix Adongo
 
 # Is this the primary user of the site?
 superuser: true
